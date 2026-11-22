@@ -27,4 +27,9 @@ return [
     '@hotwired/stimulus' => ['version' => '3.2.2'],
     '@symfony/stimulus-bundle' => ['path' => './vendor/symfony/stimulus-bundle/assets/dist/loader.js'],
     '@hotwired/turbo' => ['version' => '8.0.23'],
+    'react' => ['version' => '19.3.1'],
+    'react-dom/client' => ['version' => '19.3.1'],
+    'scheduler' => ['version' => '0.28.0'],
+    'react-dom' => ['version' => '19.3.1'],
+    '@symfony/ux-react' => ['path' => './vendor/symfony/ux-react/assets/dist/loader.js'],
 ];
